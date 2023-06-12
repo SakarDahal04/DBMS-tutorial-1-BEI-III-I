@@ -1,6 +1,6 @@
 CREATE DATABASE company_employee
 
--------------------------------------------------Tuorial 1 Question 1---------------------------------------------------
+-------------------------------------------------Tutorial 1 Question 1---------------------------------------------------
 CREATE TABLE
     tbl_Employee (
         employee_name VARCHAR(255) NOT NULL,
